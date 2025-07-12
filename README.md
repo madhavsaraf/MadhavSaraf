@@ -3,7 +3,7 @@
 🎓 Data Science undergrad at IIT Madras | 📍 Based in Surat, India  
 🔭 Currently building projects using Python, Excel, and DSA  
 🌱 Learning Pandas, Numpy, and Machine Learning  
-💡 Actively looking for an in-office Data Science Internship in Bangalore (Aug 2025)
+💡 Actively looking for an Data Science Internship
 
 ## 🚀 Skills
 - Python (Intermediate), Java (Basic), SQL (Basic)
