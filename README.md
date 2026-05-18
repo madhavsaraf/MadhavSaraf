@@ -1,34 +1,48 @@
-# 👋 Hi, I'm Madhav Saraf
+# Madhav Saraf
 
-🎓 Data Science undergrad at IIT Madras | 📍 Based in Surat, India  
-🔭 Currently building projects using Python, Excel, and DSA  
-🌱 Learning Pandas, Numpy, and Machine Learning  
-💡 Actively looking for an Data Science Internship
+**Data Science @ IIT Madras (BS Online)** · Surat, India  
+Building real products at the intersection of ML, full-stack, and automation.  
+Open to Data Science internships — preferably in-office, Bangalore.
 
-## 🚀 Skills
-- Python (Intermediate), Java (Basic), SQL (Basic)
-- Excel, Git & GitHub
-- Data Structures (Arrays, Lists, Hashmaps)
-- Currently learning: Pandas, Numpy, ML Basics
+📫 madsaf2005@gmail.com · [LinkedIn](linkedin.com/in/madhav-saraf) · [Portfolio](https://github.com/madhavsaraf)
 
-## 📌 Projects (Coming Soon)
-- 📊 IPL Data Analysis using Excel/Pandas  
-- 🎬 Movie Recommendation System using Cosine Similarity
+---
 
-📫 **Reach me at**: madsaf2005@gmail.com
+## 🚀 What I'm Building
 
+### 🍽️ InnovraDINE
+> QR-based restaurant ordering and growth platform
 
-<!--
-**madhavsaraf/MadhavSaraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Real-time order management, AI-powered menu import via Gemini, payment gateway integration, and Python Cloud Functions backend. Built for actual restaurant deployments in Surat and Gorakhpur.
 
-Here are some ideas to get you started:
+**Stack:** React 18 · TypeScript · Firebase · Python · Gemini AI · shadcn/ui
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📋 Order Form Manager
+> Multi-tenant PWA(Progressive Web Application) for textile trading businesses
+
+AI voice input and OCR-based order capture, role-based access control, and a Firebase backend. Designed for non-technical users in traditional trade environments.
+
+**Stack:** React 19 · TypeScript · Firebase · Sarvam AI · Google Vision API
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Python · TypeScript · SQL · Java (basic)  
+**ML / Data:** scikit-learn · Pandas · NumPy · Logistic Regression · Decision Trees · Ensemble Methods  
+**Web:** React · Firebase · REST APIs  
+**Tools:** Git · GitHub · Excel
+
+---
+
+## 📚 Currently
+
+- 3rd year, IIT Madras BS Data Science & Applications
+- Deepening ML fundamentals with hands-on scikit-learn projects
+- Building towards a Data Science internship role
+
+---
+
+> *I prefer building things over listing things I plan to build.*
