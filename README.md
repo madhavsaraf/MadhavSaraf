@@ -2,9 +2,9 @@
 
 **Data Science @ IIT Madras (BS Online)** · Surat, India  
 Building real products at the intersection of ML, full-stack, and automation.  
-Open to Data Science internships — preferably in-office, Bangalore.
+Open to Data Science internships
 
-📫 madsaf2005@gmail.com · [LinkedIn](linkedin.com/in/madhav-saraf) · [Portfolio](https://github.com/madhavsaraf)
+📫 madsaf2005@gmail.com · [LinkedIn](linkedin.com/in/madhav-saraf) · [Portfolio](https://github.com/madhavsaraf/portfolio)
 
 ---
 
@@ -39,7 +39,7 @@ AI voice input and OCR-based order capture, role-based access control, and a Fir
 
 ## 📚 Currently
 
-- 3rd year, IIT Madras BS Data Science & Applications
+- 3rd year, IIT Madras - BS Data Science & Applications
 - Deepening ML fundamentals with hands-on scikit-learn projects
 - Building towards a Data Science internship role
 
