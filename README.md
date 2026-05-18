@@ -4,7 +4,7 @@
 Building real products at the intersection of ML, full-stack, and automation.  
 Open to Data Science internships
 
-📫 madsaf2005@gmail.com · [LinkedIn](linkedin.com/in/madhav-saraf) · [Portfolio](https://github.com/madhavsaraf/portfolio)
+📫 madsaf2005@gmail.com · [LinkedIn](https://www.linkedin.com/in/madhav-saraf) · [Portfolio](https://github.com/madhavsaraf/portfolio)
 
 ---
 
